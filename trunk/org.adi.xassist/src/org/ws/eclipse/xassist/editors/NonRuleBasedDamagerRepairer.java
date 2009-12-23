@@ -1,4 +1,4 @@
-package org.adi.xassist.editors;
+package org.ws.eclipse.xassist.editors;
 
 import org.eclipse.jface.text.BadLocationException;
 import org.eclipse.jface.text.DocumentEvent;

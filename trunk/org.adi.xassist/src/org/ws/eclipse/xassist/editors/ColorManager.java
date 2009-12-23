@@ -1,4 +1,4 @@
-package org.adi.xassist.editors;
+package org.ws.eclipse.xassist.editors;
 
 import java.util.HashMap;
 import java.util.Iterator;

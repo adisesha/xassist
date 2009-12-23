@@ -8,7 +8,7 @@
  * Contributors:
  *     IBM Corporation - initial API and implementation
  *******************************************************************************/
-package org.adi.xassist.editors.java;
+package org.ws.eclipse.xassist.editors.java;
 
 
 import java.text.MessageFormat;

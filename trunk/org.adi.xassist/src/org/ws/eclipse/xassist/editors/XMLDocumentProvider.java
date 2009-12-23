@@ -1,4 +1,4 @@
-package org.adi.xassist.editors;
+package org.ws.eclipse.xassist.editors;
 
 import org.eclipse.core.runtime.CoreException;
 import org.eclipse.jface.text.IDocument;
