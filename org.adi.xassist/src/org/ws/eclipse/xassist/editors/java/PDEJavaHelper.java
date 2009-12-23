@@ -1,4 +1,4 @@
-package org.adi.xassist.editors.java;
+package org.ws.eclipse.xassist.editors.java;
 
 import java.util.ArrayList;
 

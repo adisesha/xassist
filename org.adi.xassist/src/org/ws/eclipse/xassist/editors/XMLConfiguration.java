@@ -1,6 +1,5 @@
-package org.adi.xassist.editors;
+package org.ws.eclipse.xassist.editors;
 
-import org.adi.xassist.editors.java.JavaCompletionProcessor;
 import org.eclipse.jface.text.DefaultInformationControl;
 import org.eclipse.jface.text.IDocument;
 import org.eclipse.jface.text.IInformationControl;
@@ -16,6 +15,7 @@ import org.eclipse.jface.text.rules.Token;
 import org.eclipse.jface.text.source.ISourceViewer;
 import org.eclipse.jface.text.source.SourceViewerConfiguration;
 import org.eclipse.swt.widgets.Shell;
+import org.ws.eclipse.xassist.editors.java.JavaCompletionProcessor;
 
 public class XMLConfiguration extends SourceViewerConfiguration {
 	private XMLDoubleClickStrategy doubleClickStrategy;

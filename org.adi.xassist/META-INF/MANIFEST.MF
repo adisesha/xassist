@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jxmleditor Plug-in
-Bundle-SymbolicName: org.adi.xassist;singleton:=true
+Bundle-SymbolicName: org.ws.eclipse.xassist;singleton:=true
 Bundle-Version: 1.0.0
-Bundle-Activator: org.adi.xassist.Activator
-Bundle-Vendor: Adi
+Bundle-Activator: org.ws.eclipse.xassist.Activator
+Bundle-Vendor: WS
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.jface.text,

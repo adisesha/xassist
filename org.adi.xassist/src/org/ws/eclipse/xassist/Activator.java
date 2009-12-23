@@ -1,4 +1,4 @@
-package org.adi.xassist;
+package org.ws.eclipse.xassist;
 
 import java.util.ResourceBundle;
 
@@ -11,7 +11,7 @@ import org.osgi.framework.BundleContext;
  */
 public class Activator extends AbstractUIPlugin {
 
-	private static final String		RESOURCE_BUNDLE		= "org.adi.xassist.editors.JavaEditorMessages";
+	private static final String		RESOURCE_BUNDLE		= "org.ws.eclipse.xassist.editors.JavaEditorMessages";
 	private static ResourceBundle	fgResourceBundle	= ResourceBundle.getBundle(RESOURCE_BUNDLE);
 
 	// The plug-in ID

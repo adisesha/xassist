@@ -9,7 +9,7 @@
             extensions="xml"
             icon="icons/sample.gif"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="org.adi.xassist.editors.XAssistEditor"
+            class="org.ws.eclipse.xassist.editors.XAssistEditor"
             id="org.adi.jxmleditor.editors.XAssistEditor">
       </editor>
    </extension>

@@ -1,11 +1,11 @@
-package org.adi.xassist.editors;
+package org.ws.eclipse.xassist.editors;
 
-import org.adi.xassist.Activator;
 import org.eclipse.jface.action.IAction;
 import org.eclipse.jface.text.source.ISourceViewer;
 import org.eclipse.ui.editors.text.TextEditor;
 import org.eclipse.ui.texteditor.ITextEditorActionDefinitionIds;
 import org.eclipse.ui.texteditor.TextOperationAction;
+import org.ws.eclipse.xassist.Activator;
 
 public class XAssistEditor extends TextEditor {
 
